@@ -1,3 +1,7 @@
+# Name : Sanket Mandhare
+# Batch : June 2022
+#Project : Task 1 - Prediction model using supervised machine learning
+
 # Flight Fare Prediction: 
 
 ## Table of Content
